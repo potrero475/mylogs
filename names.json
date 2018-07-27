@@ -1,0 +1,32 @@
+{ 
+  "superman" : {
+    "username"  : "agent001",
+    "location"  : "cupertino",
+    "employer"  : "apple"
+  },
+  "spiderman" : {
+    "username"  : "agent002",
+    "location"  : "mountainview",
+    "employer"  : "google"
+  },
+  "batman" : {
+    "username"  : "agent003",
+    "location"  : "menlopark",
+    "employer"  : "facebook"
+  },
+  "ironman" : {
+    "username"  : "agent004",
+    "location"  : "los altos",
+    "employer"  : "netflix"
+  },
+  "wonderwoman" : {
+    "username"  : "agent005",
+    "location"  : "san francisco",
+    "employer"  : "uber"
+  },
+  "thor" : {
+    "username"  : "agent006",
+    "location"  : "sunnyvale",
+    "employer"  : "apple"
+  }
+}
